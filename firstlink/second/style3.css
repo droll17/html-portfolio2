@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    background-color: antiquewhite;
+    color: grey;
+    text-align: center;
+}
+.normal{
+    background-color: ;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    width: 150;
+    height: 150px;
+    background-color: plum;
+    padding: 60px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
